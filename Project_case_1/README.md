@@ -684,12 +684,12 @@ test is: “ Victim Name: Nuria Lora” <br>
  <!-- 5. Supporting Material -->
  ## 5. Supporting Material 
  
- Tools:
+ Tools:<br><br>
            Autopsy <br>
            Access Data FTK Imager <br>
            HxD <br>
 
- Site:
+ Site:<br><br>
            https://www.base64decode.org/ <br>
            https://gchq.github.io/CyberChef/ <br>
            https://morsecode.world/international/decoder/audio-decoder-adaptive.html <br>
