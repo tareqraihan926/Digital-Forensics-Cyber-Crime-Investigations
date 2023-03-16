@@ -35,7 +35,9 @@
 
   
 
-<h3 align="center">COMP1812: Coursework 1 - 2022/2023</h3>
+<h3 align="center">Case Scenario: Confidential Data of Offenders who did Sexual grooming of a Child.<br>
+Suspect: “Lord Bouse”<br>
+Victim Name: “Nuria Lora”</h3>
 </div>
 
 
@@ -100,12 +102,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A Group of Persons do Sexual grooming of a Child. They engages in predatory conduct
-to prepare a child person for sexual activity at a later time. They communicate to befriend
-and establish a relationship by emotional connection with the child. In this case A person
-engages in predatory conduct to prepare a child person to befriend and attach with her
-and emotionally or systematically capture her social media id. Their connection was
-established via social media platforms. He has partners for grooming of a child .
+A forensic image of Lord Bouse's computer has been provided to you. A group of people
+grooms a child sexually. To get a youngster ready for eventual sexual involvement, they
+participate in predatory behavior. They interact with the child in an effort to become
+friends and build a bond through shared emotional experiences. In this instance, a
+person engages in predatory behavior to set up a youngster to become her friend,
+emotionally attach to her, and/or systematically take her social media account
+information. Social networking websites were used to establish their relationship. For
+the grooming of a child, he has partners.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -681,6 +685,14 @@ test is: “ Victim Name: Nuria Lora” <br>
  
  Decode site link: https://www.base64decode.org/
  
+ 
+ ## Evidence Map
+ 
+ <p align="center">
+
+<img src="https://github.com/tareqraihan926/Digital-Forensics-Cyber-Crime-Investigations/blob/main/Project_case_1/Evidence_map.png" width="" height="">
+</p>
+
  <!-- 5. Supporting Material -->
  ## 5. Supporting Material 
  
