@@ -30,9 +30,9 @@
 <br />
 <div align="center">
   <h3 align="center">Digital Forensics on Cyber Crime Investigations Case</h3>
-  
+<!-- 
 <img src="https://github.com/tareqraihan926/Digital-Forensics-Cyber-Crime-Investigations/blob/main/Project_case_1/Child-Safety-Online.jpg" width="400" height="400">
-
+-->
   
 
 <h3 align="center">Case Scenario: Confidential Data of Offenders who did Sexual grooming of a Child.<br>
